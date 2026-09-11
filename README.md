@@ -239,3 +239,6 @@ This repository serves as the official landing page for ImTOO DVD to MP4 Convert
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of ImTOO DVD to MP4 Converter today!**
+
+---
+**Last updated:** 2026-09-11 18:20:26 UTC
